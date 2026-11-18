@@ -14,8 +14,8 @@ cask "atc" do
   end
 
   name "atc"
-  desc ""
-  homepage ""
+  desc "Active Traffic Control (ATC) automatic Consul traffic control and failover agent."
+  homepage "https://github.com/atcprojectio/atc"
 
   livecheck do
     skip "Auto-generated on release."
